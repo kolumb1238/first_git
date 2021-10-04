@@ -1,0 +1,109 @@
+commit 8ada6d4f992013f31ed8b862c55451fe77adafd4
+Author: Кристиан Колодин <kolodin.kris@mail.ru>
+Date:   Mon Oct 4 13:17:07 2021 +0300
+
+    11
+
+ 1.txt | 2 +-
+ 3.txt | 1 +
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 668db9d73175711087420cd8fb27e8ab07f56ff0
+Merge: e24f9e7 1ee0e93
+Author: Кристиан Колодин <kolodin.kris@mail.ru>
+Date:   Mon Oct 4 13:14:00 2021 +0300
+
+    Merge branch 'new_branch'
+
+commit 1ee0e9397c7aff4ba5dc6a4a9f3ff87d6323c09b
+Author: Кристиан Колодин <kolodin.kris@mail.ru>
+Date:   Mon Oct 4 13:12:47 2021 +0300
+
+    10
+
+ 1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit e24f9e79e0dff6503d91533525196b1fe986e4a3
+Author: Кристиан Колодин <kolodin.kris@mail.ru>
+Date:   Mon Oct 4 13:09:42 2021 +0300
+
+    9
+
+ in_branch.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 762008480e62e645abdb8d43640c11fbffd49926
+Author: Кристиан Колодин <kolodin.kris@mail.ru>
+Date:   Mon Oct 4 13:07:12 2021 +0300
+
+    9
+
+ 2.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9652a7f7fe1ad32f64ea4d4a488e7577e313c816
+Author: Кристиан Колодин <kolodin.kris@mail.ru>
+Date:   Mon Oct 4 13:02:37 2021 +0300
+
+    add 1.txt and 3.txt
+
+ 3.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 5f678321c19ae57388a2474e04a7776cd3c9b8b1
+Author: Кристиан Колодин <kolodin.kris@mail.ru>
+Date:   Mon Oct 4 12:56:20 2021 +0300
+
+    add 1.txt file
+
+ 1.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d298011521d31804ac85661418fafd73600ef818
+Author: Кристиан Колодин <kolodin.kris@mail.ru>
+Date:   Mon Oct 4 12:52:52 2021 +0300
+
+    5
+
+ my_second_file.txt => my_first_file.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 094579d359e090b06b14caa28f4dc0d5e706b96e
+Author: Кристиан Колодин <kolodin.kris@mail.ru>
+Date:   Mon Oct 4 12:52:15 2021 +0300
+
+    4
+
+ my_first_file.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 218d1acd49e5dd4f4add24c416bdaa525e3a4107
+Author: Кристиан Колодин <kolodin.kris@mail.ru>
+Date:   Mon Oct 4 12:49:46 2021 +0300
+
+    3
+
+ .gitignore    | 0
+ log/main.html | 0
+ log/some.tmp  | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit db70903661f5d68bd74df3d10af8817a9fba9abe
+Author: Кристиан Колодин <kolodin.kris@mail.ru>
+Date:   Mon Oct 4 12:47:43 2021 +0300
+
+    2
+
+ my_first_file.txt  | 1 +
+ my_second_file.txt | 0
+ 2 files changed, 1 insertion(+)
+
+commit 3d5a6d17f0bc50cff3c4eee49a24d420c9afb16a
+Author: Кристиан Колодин <kolodin.kris@mail.ru>
+Date:   Mon Oct 4 12:46:35 2021 +0300
+
+    1
+
+ my_first_file.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
